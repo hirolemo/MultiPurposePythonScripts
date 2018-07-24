@@ -1,5 +1,7 @@
-#! python3
+#! python3 
 #mapIt.py
+
+#^ to run from command line
 
 import webbrowser, sys
 if len(sys.argv) > 1:
